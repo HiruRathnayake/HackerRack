@@ -20,8 +20,8 @@ public class Solution {
         a = in.nextInt();
         int b;
         b = in.nextInt();
-        int count;
-        count = solveMeFirst(a, b);
+        int count1;
+        count1 = solveMeFirst(a, b);
         System.out.println(sum);
    }
 }
